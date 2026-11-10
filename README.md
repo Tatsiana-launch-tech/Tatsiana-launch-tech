@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24134f,45:5632a8,100:08b6a8&height=190&section=header&text=Татьяна%20Доронина&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Техническое%20сопровождение%20%7C%20Автоматизация%20%7C%20AI&descSize=15&descAlignY=58" width="100%" alt="Татьяна Доронина — техническое сопровождение и автоматизация" />
 
-<a href="https://launch-tech.ru/">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Превращаю+технический+хаос+в+понятную+систему;Настраиваю+онлайн-школы+и+автоматизирую+рутину;Изучаю+ИИ+и+ищу+ему+практическое+применение"  />
-</a>
 
 <p>
   <a href="https://launch-tech.ru/"><img src="https://img.shields.io/badge/🌐_Мой_сайт-launch--tech.ru-6D4AFF?style=for-the-badge" alt="Мой сайт" /></a>
